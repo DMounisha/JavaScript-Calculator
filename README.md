@@ -20,6 +20,6 @@ Contributors are always welcome to make contributions to this project and help i
 
 ## Happy Coding!
 
-We hope you find this Simple JavaScript Calculator useful and enjoy using it for your calculations. If you have any questions or suggestions, please don't hesitate to reach out to [D.Mouinisha](https://harsh98trivedi.github.io).
+We hope you find this Simple JavaScript Calculator useful and enjoy using it for your calculations. If you have any questions or suggestions, please don't hesitate to reach out to [D.Mounisha](https://harsh98trivedi.github.io).
 
 Happy coding!
